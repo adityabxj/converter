@@ -1,0 +1,104 @@
+body {
+    background-image:url('https://i.ibb.co/fDHdCZt/4043500-86281.jpg');
+    font-family:cursive;
+    font-size: 16px;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box1 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.box3 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+h1 {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bolder;
+}
+
+p {
+    font-style: italic;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+h3{
+    color: blue;
+    margin-left: 40px;
+    font-weight: bold;
+} 
+
+.t{
+    color: blue;
+    font-weight: bolder;
+}
+
+.b{
+    color: blue;
+    font-weight: bolder;
+}
+
+.c{
+    color: blue;
+    font-weight: bolder;
+}
+
+.d{
+    color: blue;
+    font-weight: bolder;
+}
+
+.f{
+    color: blue;
+    font-weight: bolder;
+}
+
+.h{
+    color: blue;
+    font-weight: bolder;
+}
+
+.J{
+    color: blue;
+    font-weight: bolder;
+}
+
+select{
+    color:rebeccapurple;
+    font-weight: bold;
+}
+
+.input{
+    color: rebeccapurple;
+}
+.output{
+    color: rebeccapurple;
+}
+
+.calculate{
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rebeccapurple;
+    font-weight: bold;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+  } 
